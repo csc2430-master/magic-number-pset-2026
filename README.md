@@ -1,5 +1,3 @@
-Here is a complete draft of the P-set, structured as a cumulative assignment for CSC 2430.
-
 # CSC 2430 — P-Set: Magic Number
 
 ## Overview
