@@ -389,7 +389,7 @@ while (attempt < tries) {
 }
 ```
 
-Identify and correct the problems.
+Run the program on paper, and identify and correct the problems.
 
 For each correction, briefly explain:
 
@@ -510,7 +510,7 @@ and a separate document or text file containing:
 
 - your Problem 1 pseudocode,
 - your Problem 2 trace,
-- your Problem 7 debugging explanation,
+- your Problem 7 paper run and debugging explanation,
 - and your Problem 8 reflection answers.
 
 Your source code should compile without errors and should be reasonably formatted and readable.
